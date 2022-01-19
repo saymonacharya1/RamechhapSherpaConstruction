@@ -9,7 +9,7 @@ const OE = () => {
                     <img src="images/building.png" alt="" />
                     <h1>Building Construction
                         <p>
-                       Hello World sit amet consectetur adipisicing elit. Dolores mollitia ipsa ab, corporis atque accusantium iste hic, natus voluptas exercitationem sapiente cumque architecto repudiandae laudantium molestias omnis maxime, velit itaque?
+                       Hellno World sit amet consectetur adipisicing elit. Dolores mollitia ipsa ab, corporis atque accusantium iste hic, natus voluptas exercitationem sapiente cumque architecto repudiandae laudantium molestias omnis maxime, velit itaque?
                         </p>
                         <button>KNOW MORE</button>
                     </h1>
