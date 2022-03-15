@@ -14,7 +14,7 @@ const AboutUs = () => {
             </div>
 
             <div className="imageshape">
-                <img src="images/constructionshape.png" alt="" />
+                <img src="images\constructionshape.png" alt="" />
             </div>
         </section>
     );
